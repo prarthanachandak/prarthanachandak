@@ -5,8 +5,8 @@
  -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on an E-Commerce Website
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🔭 I’m currently working as a student intern at Reliance Jio
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: prarthanachandak@gmail.com
 - 😄 Pronouns: She
 
