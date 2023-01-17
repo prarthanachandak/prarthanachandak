@@ -5,7 +5,8 @@
  -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as a student intern at Reliance Jio
+- 🔭 I’m currently working as a Software Development Intern at Centio
+- 🔭 I have previously interned at Jio Pltforms as a Developer Intern
 - 🎓 I'm the Founder Lead at Google Developer Student Clubs, AISSMS IOIT
 - 🌱 I’m currently learning Node.js, Express.js, React.js and MongoDB
 - 📫 How to reach me: prarthanachandak@gmail.com
